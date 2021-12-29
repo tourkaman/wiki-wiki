@@ -6,7 +6,9 @@ Hypothesis: Not enough people know about various wikis, and they are sometimes h
 
 
 ## Wikis
+
 [EverybodyWiki](https://en.everybodywiki.com)
+> EverybodyWiki is an **inclusionist online encyclopedia** where anyone can write about anything !
 
 [ArchWiki](https://wiki.archlinux.org)  
 > Your source for Arch Linux documentation on the web.
