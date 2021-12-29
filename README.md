@@ -1,11 +1,11 @@
-# wiki-wiki
+# Wiki Wiki
 All public wikis, in one place. Hypothesis: Not enough people know about various wikis, and they are sometimes hard to find via web search.
 
-## wikis
+## Wikis
 [EverybodyWiki](https://en.everybodywiki.com)
 
 
-## todo
+## Todo
 
 ### Prios
 Look for other similar wiki gathering efforts out there and include them here  
