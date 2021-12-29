@@ -15,6 +15,9 @@ Particularly useful pages which may be useful even if you don't ArchLinux:
   -  [List of applications](https://wiki.archlinux.org/title/List_of_applications)
   -  [General recommendations](https://wiki.archlinux.org/title/General_recommendations)
 
+[Wikiquote](https://www.wikiquote.org)  
+_Wikiquote is a free online compendium of sourced quotations from notable people and creative works in every language, translations of non-English quotes, and links to Wikipedia for further information._
+
 
 ## Todo
 
