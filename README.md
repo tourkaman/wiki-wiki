@@ -20,6 +20,9 @@ Particularly useful pages which may be useful even if you don't ArchLinux:
 ### [Wikiquote](https://www.wikiquote.org)  
 > [Wikiquote](https://en.wikiquote.org/wiki/Wikiquote:Wikiquote) is a free online compendium of sourced quotations from notable people and creative works in every language, translations of non-English quotes, and links to [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) for further information.
 
+### [Python Wiki](https://wiki.python.org/moin)
+> Welcome to the Python Wiki, a user-editable compendium of knowledge based around the Python programming language.
+
 
 ## Todo
 
