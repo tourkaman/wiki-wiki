@@ -37,3 +37,4 @@ Look for other similar wiki gathering efforts out there and include them here
 Add a 404 checker, and perhaps also a CI-like badge showing that all links are "OK: passing":
   -  Start here: https://github.com/search?q=404+checker&type=Repositories  
      and filter for Python after first having a look at good/simple lang-nonspecific repos solving this.
+Categorize the wikis into "coding/computing", "general", and then alphabetically under those (for now).
